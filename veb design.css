@@ -437,7 +437,9 @@ width: 95%;
   color: #4FC3F7 !important;
 
 }
-
+first {
+color: #01579B;
+	
  float: left;
 
  font-size: 84px;
@@ -451,3 +453,4 @@ width: 95%;
  padding-left: 3px;
 
  font-family: 'Montserrat', sans-serif;
+} 
